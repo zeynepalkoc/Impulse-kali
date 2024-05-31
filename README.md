@@ -8,7 +8,7 @@
 
 # :computer: Main window
 <p align="center">
-  <img src="https://i.ibb.co/8c1fb1Q/Impulse-Main.png">
+  <img src="https://github.com/zeynepalkoc/Impulse-kali/blob/main/imp.png">
 </p>
 
 # :satellite: Methods:
