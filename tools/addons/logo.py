@@ -8,5 +8,5 @@ print(rf"""{Fore.MAGENTA}
    / /\/ '_ ` _ \| '_ \| | | | / __|/ _ \
 /\/ /_ | | | | | | |_) | |_| | \__ \  __/
 \____/ |_| |_| |_| .__/ \__,_|_|___/\___|
-                 |_|    Created by LimerBoy
+                 |_|    Created by zeynepalkoc
 {Fore.RESET}""")
